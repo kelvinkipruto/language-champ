@@ -1,5 +1,6 @@
 <template>
   <div>
+    <hello-world></hello-world>
     <h3>Options Page</h3>
   </div>
 </template>
